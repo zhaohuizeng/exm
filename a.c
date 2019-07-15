@@ -1,6 +1,6 @@
-int  man()
+iint  man()
 {
 
- return 3;
+ return 1;
 
 }
