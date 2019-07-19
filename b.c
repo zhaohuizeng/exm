@@ -4,5 +4,6 @@ int button()
   print("test b.c commit");
   pritf
   return (a+b);
-
+  return a;
+  return c;
 }
