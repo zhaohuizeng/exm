@@ -1,6 +1,7 @@
 iint  man()
 {
- printf("I am a a.c");
+ printf("Hello,I am a a.c");
+ printf("Hello Derick");
  return 1;
 
 }
