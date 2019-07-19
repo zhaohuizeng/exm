@@ -6,4 +6,5 @@ int button()
   return (a+b);
   return a;
   return c;
+  return (a+b+c);
 }
