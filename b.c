@@ -6,5 +6,8 @@ int button()
   return (a+b);
   return a;
   return c;
+<<<<<<< HEAD
   return (a+b+c);
+=======
+>>>>>>> 6183e60b7c9c0929c7830094fb444f5f21c69c6d
 }
