@@ -1,5 +1,5 @@
 int button()
 {
-modify 1 b.c
+modify 2 b.c
 
 }
